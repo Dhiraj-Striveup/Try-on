@@ -1,0 +1,9 @@
+{
+  "name": "vellstudio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VELL character studio and photo-based virtual try-on",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
